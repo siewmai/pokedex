@@ -256,13 +256,12 @@
                                                     <constraint firstAttribute="height" constant="128" id="yxl-uK-uIZ"/>
                                                 </constraints>
                                             </imageView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cp4-Sq-djg">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cp4-Sq-djg">
                                                 <rect key="frame" x="128" y="0.0" width="427" height="128"/>
                                                 <animations/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="128" id="zMB-6y-ovV"/>
                                                 </constraints>
-                                                <string key="text">Vix quando minimum intellegat eu. Sit at amet tollit, ignota molestie id per. In mei probo torquatos, et nam esse sensibus mediocrem. Gubergren euripidis ea vel, vocent albucius eum eu. Vero omnesque invenire te nec, euripidis interesset sea id.</string>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                                 <nil key="highlightedColor"/>
@@ -290,7 +289,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VtN-pG-WFM">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VtN-pG-WFM">
                                                                 <rect key="frame" x="50" y="0.0" width="225" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -321,7 +320,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CHg-6J-WL3">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CHg-6J-WL3">
                                                                 <rect key="frame" x="50" y="0.0" width="225" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -341,7 +340,7 @@
                                                     <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YFZ-yZ-gvn">
                                                         <rect key="frame" x="0.0" y="52" width="275" height="21"/>
                                                         <subviews>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Width:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XJB-d0-UYN">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Weight:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XJB-d0-UYN">
                                                                 <rect key="frame" x="0.0" y="0.0" width="50" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -352,7 +351,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Jd-vN-Wb1">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Jd-vN-Wb1">
                                                                 <rect key="frame" x="50" y="0.0" width="225" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -389,7 +388,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XMw-Eb-CGT">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XMw-Eb-CGT">
                                                                 <rect key="frame" x="80" y="0.0" width="195" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -420,7 +419,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="22L-l8-aGh">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="22L-l8-aGh">
                                                                 <rect key="frame" x="80" y="0.0" width="195" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -451,7 +450,7 @@
                                                                 <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem / Ipsum" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="157-SN-U9L">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="157-SN-U9L">
                                                                 <rect key="frame" x="80" y="0.0" width="195" height="21"/>
                                                                 <animations/>
                                                                 <constraints>
@@ -477,7 +476,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="141-G5-dfV">
                                         <rect key="frame" x="0.0" y="304" width="555" height="32"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Next Evolution: Pokemon LVL 32" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pwa-cC-lfw">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pwa-cC-lfw">
                                                 <rect key="frame" x="54" y="0.0" width="493" height="32"/>
                                                 <animations/>
                                                 <constraints>
@@ -503,8 +502,8 @@
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="2aT-ci-jeg">
                                                 <rect key="frame" x="0.0" y="0.0" width="555" height="100"/>
                                                 <subviews>
-                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="133" translatesAutoresizingMaskIntoConstraints="NO" id="BsC-8H-IDf">
-                                                        <rect key="frame" x="0.0" y="0.0" width="268" height="100"/>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="133" translatesAutoresizingMaskIntoConstraints="NO" id="BsC-8H-IDf">
+                                                        <rect key="frame" x="0.0" y="0.0" width="555" height="100"/>
                                                         <animations/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="100" id="7rA-Vb-nEC"/>
@@ -516,8 +515,8 @@
                                                             </mask>
                                                         </variation>
                                                     </imageView>
-                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="198" translatesAutoresizingMaskIntoConstraints="NO" id="DIV-p0-aBF">
-                                                        <rect key="frame" x="288" y="0.0" width="268" height="100"/>
+                                                    <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="198" translatesAutoresizingMaskIntoConstraints="NO" id="DIV-p0-aBF">
+                                                        <rect key="frame" x="555" y="0.0" width="0.0" height="100"/>
                                                         <animations/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="100" id="Jb4-89-qTG"/>
@@ -562,7 +561,7 @@
                         <outlet property="nextEvoImg" destination="DIV-p0-aBF" id="Idz-dh-sKR"/>
                         <outlet property="pokedexLbl" destination="22L-l8-aGh" id="qKU-mV-stv"/>
                         <outlet property="typeLbl" destination="VtN-pG-WFM" id="M4W-hP-aXc"/>
-                        <outlet property="widthLbl" destination="4Jd-vN-Wb1" id="S2n-F8-TSt"/>
+                        <outlet property="weightLbl" destination="4Jd-vN-Wb1" id="aWR-5A-riz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ULx-au-HTI" userLabel="First Responder" sceneMemberID="firstResponder"/>
